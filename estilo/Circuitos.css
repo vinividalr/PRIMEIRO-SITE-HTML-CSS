@@ -1,0 +1,75 @@
+﻿body{
+	margin-left:50px;
+	margin-right:50px;
+	background-image: url(poli.jpg);
+	background-repeat:repeat-y;
+	background-position:top right;
+}
+nav{
+	padding: 10px 10px 10px 10px ;
+	color:#fff;
+	font-family: Helvetica,verdana;
+	font-size: xx-large;
+	font-weight: bolder;
+	text-align:center;
+	background-color: #000000;
+
+}
+#logo{float:left;}
+
+
+header{
+	padding: 10px 10px 10px 10px ;
+	
+}
+
+dl dt{display: inline;
+		padding-right: 50px;
+
+
+}
+
+dl dt a:hover{
+		background-color: #1C1C1C;
+		color: #fff;
+		text-decoration:none:
+		
+
+}
+
+dl dt a {
+    padding: 40px 10px 40px 10px ;
+	border-bottom:3px;
+	text-decoration:none;
+	color: #fff;
+}
+
+footer{
+	clear:both;
+	font-family: Helvetica,verdana;
+	font-weight: bolder;
+	text-align:center;
+	background-color: #000000;
+	color:#fff;
+	margin:auto;
+	padding:padding-bottom;
+}
+
+section{
+	margin: 0px 300px 0px 0px;
+	font-family:Helvetica, sans-serif;
+	font-style: normal;
+	font-weight: 600;
+}
+
+.figura{
+	border: solid #FF3030;
+	border-radius: 4px;
+	
+}
+
+
+
+
+
+
